@@ -11,7 +11,7 @@ This app is more of a test I did than a true homebrew, so use it at your own ris
 
 You'll need two files in order to use the app :
 
-- "video.yuv" : A RAW video file (I used ffmpeg to make mine).
+- "video.yuv" : A RAW video file (I used ffmpeg to make mine), it has to be 320x240@60Hz.
 
 - "audio.mp3" : The audio file of the video you want to play.
 
